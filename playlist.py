@@ -158,7 +158,7 @@ def main():
                         Unerreicht in meiner Playlist: Mando Diao "Infruset".
                         Während der Arbeit Musik zu finden, die man gut anhören kann, ohne immer laut mitsingen zu müssen und deswegen aus dem Arbeitstrott zu geraten, ist schwierig.
                         Schwieriger ist es allerdings alt-schwedische Lyrik mitzusingen. 
-                        Passt also perfekt als Begleitmusik und war ist es immer wieder, immer wieder.
+                        Passt also perfekt als Begleitmusik und war und ist es immer wieder, immer wieder.
                         (Dummerweise hab ich es jetzt so oft gehört, dass ich mittlerweile doch mitsinge...)
 
                         Mindestens genauso schön: Dringend auch alle Dota-Vertonungen von Mascha Kaléko anhören. Wunderbar!
