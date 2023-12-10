@@ -10,9 +10,11 @@ def main():
                 Die wichtigsten und größten Ereignisse sind irgendwann in dieser Zeit passiert: Hochzeit, Geburten, Erfolge, Niederlagen, Stress und Spass.
                 Aber immerhin 3 Jahre länger als Kohl, Merkel oder Anne Will - ist doch auch nicht schlecht.
                 
-                Und da ich ja so gerne erzähle, möchte ich das hier noch einmal tun und Euch anhand von ein paar Liedern aus diesen Jahren erzählen.
+                Und da ich ja so gerne erzähle, möchte ich das hier noch einmal tun und über eine kleine Liederauswahl mit Euch ein paar Gedanken zum Abschied teilen.
                 Wer Lust hat, klicke den Link an, starte die Playlist und liest sich die Texte hier unten durch.
                 Vielleicht entlockt es noch einmal einen Schmunzler oder triggert eine schöne Erinnerung... Das wäre doch was!
+
+                Wer auf sentimentales Gewäsch keine Lust hat, kann jetzt einfach die Seite wieder schließen. No worries!
                 """)
 
     st.markdown("https://open.spotify.com/playlist/5THCLsUU3qjKFxrLDF0mNe?si=443650e5306f446a")
@@ -61,8 +63,10 @@ def main():
                         Quasi täglich waren sie aus dem Nachbarbüro zu hören und läuteten, unabhängig von der Uhrzeit, "den gemütlichen Teil" des Tages ein.
                         
                         Es sind manchmal die kleinen Dinge, die einem die nötige Struktur geben, um in ein geregeltes Arbeitsleben zu finden. 
-                        Feste Rituale, wie das Treffen in der Mittagsrunde, gemeinsames Tischgrillen im Büro, Käsefondue in der Mittagspause oder auch der Spaziergang zum Döner holen.
-                        Wie wichtig ist das vor allem für einen Neuling. Der Kollege von damals hat schon recht mit seiner Einschätzung: 
+                        Feste Rituale wie das Treffen in der Mittagsrunde, gemeinsames Tischgrillen im Büro, Käsefondue in der Mittagspause oder auch der Spaziergang zum Döner holen.
+                        Für mich war das ein idealer Einstieg ins Berufsleben. 
+                        
+                        Der Kollege von damals hat schon recht mit seiner Einschätzung: 
                         "Das muss man pflegen. Sowas ist schneller abgeschafft, als wieder eingeführt." 
                         """)
 
@@ -74,8 +78,7 @@ def main():
                     st.image(track02, width=200)
                 with xcol2:
                     st.markdown("""
-                        Ui, ui, ui, nerdig...
-                        Ich hab lange ein Lied gesucht, dass ein wenig auf die Arbeit in der Statistik passt.
+                        Ich hab länger ein Lied gesucht, dass ein wenig auf die Arbeit in der Statistik passt.
                         Ich hab mich für dieses Lied entschieden, weil es nicht nur vom Titel her passt, 
                         sondern weil es mich auch an die Zeit damals erinnert, als ich Hinweisen folgend relativ intensiv die Independent Playlist nachgeholt habe...
                             
@@ -102,9 +105,8 @@ def main():
                         sich als Vater so für die Kinder wünscht.
                       
                         Dass ich so einfach und unproblematisch in Teilzeit arbeiten konnte und so viel Zeit
-                        mit den beiden verbringen konnte ist definitiv ein absoluter Pluspunkt. 
-                      
-                        Dafür danke ich den Beteiligten und Betroffenen.    
+                        mit den beiden verbringen konnte, dafür bin ich unendlich dankbar und gebe diesen Dank unmittelbar an die Entscheider, 
+                        Beteiligten und Betroffenen weiter.    
                         """)
 
 # ## Track 4
@@ -115,7 +117,7 @@ def main():
                     st.image(track04, width=200)
                 with xcol2:
                     st.markdown("""
-                        Ein krasser Vorteil war der extrem kurze Arbeitsweg, den ich sehr gerne mit dem Fahrrad am Schlosspark entlang zurückgelegt habe.
+                        Ein krasser Vorteil war immer auch der extrem kurze Arbeitsweg, den ich sehr gerne mit dem Fahrrad am Schlosspark entlang zurückgelegt habe.
                         Im Sommer wie im Urlaub, im Herbst durch den Morgennebel durch ein verwunschenes Paradies, im Winter oft steifgefroren, 
                         im Regen bis auf die Haut nass und dann strumpfsockend im Büro. Wir Radler sind schon verwegene Typen...
                         Auf jeden Fall immer eine gute Gelegenheit noch einmal durchzuschnaufen, bevor es tagsüber rundgeht. Und sich "freizustrampeln", 
@@ -140,7 +142,8 @@ def main():
                         So viel zu lernen, die Augen offen halten, mal was Neues ausprobieren - das ist schon cool.
                         Wer viel Zeit mitbringt, darf sich gern mit mir darüber austauschen... 
                                 
-                        Das gilt allerdings ehrlicherweise auch für alle Themen.
+                        Das gilt allerdings ehrlicherweise auch für alle Themen, wenn ich ehrlich bin. Keine Ahnung, ob ich es irgendwann nochmal schaffe, 
+                        schneller auf den Punkt zu kommen. Diese Seite hier ist nicht gerade ein gutes Omen dafür...
                         """)
 
 ## Track 6
@@ -151,13 +154,14 @@ def main():
                     st.image(track06, width=200)
                 with xcol2:
                     st.markdown("""
-                        Und auf so einer Liste darf natürlich nicht ein Lied von der meistgehörten Platte fehlen.
-                        Unerreicht: Mando Diao "Infruset".
+                        Auf so einer Liste darf natürlich ein Lied von der meistgehörten Platte nicht fehlen.
+                        Unerreicht in meiner Playlist: Mando Diao "Infruset".
                         Während der Arbeit Musik zu finden, die man gut anhören kann, ohne immer laut mitsingen zu müssen und deswegen aus dem Arbeitstrott zu geraten, ist schwierig.
                         Schwieriger ist es allerdings alt-schwedische Lyrik mitzusingen. 
                         Passt also perfekt als Begleitmusik und war ist es immer wieder, immer wieder.
                         (Dummerweise hab ich es jetzt so oft gehört, dass ich mittlerweile doch mitsinge...)
-                        Weil es hier dazu passt, aber es nicht auf die Liste gepasst hat: Dringend auch alle Dota-Vertonungen von Mascha Kaléko anhören. Wunderbar!
+
+                        Mindestens genauso schön: Dringend auch alle Dota-Vertonungen von Mascha Kaléko anhören. Wunderbar!
                         """)
 
 #############################
@@ -176,7 +180,7 @@ def main():
                         Optimierung und Automatisierung sind natürlich die Super-Schlagworte der modernen Arbeitswelt.
                         Was ich lernen durfte, ist, dass man immer "ganzheitlich" an die Sache rangehen sollte. Es geht darum, den wirklichen, realen Bedarf
                         zu entdecken. Ein super optimierter Prozess, den keiner anwendet bringt nichts. Eine minimale Veränderung, die einem im Alltag
-                        ein paar Sekunden nervige Klickerei spart, ist Gold wert.
+                        ein paar Sekunden nervige Klickerei spart, ist Gold wert. 
                         
                         **Wichtig**: Macht es mit Python! :smile:
                         """)
@@ -189,8 +193,8 @@ def main():
                     st.image(track08, width=200)
                 with xcol2:
                     st.markdown("""
-                        Hier noch ein typisches Arbeitsproblem. Nicht, was man denken könnte bei dem Titel:
-                        Netzwerken ist nicht so meine Stärke, war aber doch immer wieder "am Kunden". Im Smalltalk stellt sich heraus, dass 
+                        Hier noch ein typisches Arbeitsproblem aus meiner Zeit in der Medienforschung. Nicht, was man denken könnte bei dem Titel...
+                        Netzwerken ist nicht so meine Stärke, war aber doch immer wieder "am Kunden". Im Smalltalk stellte sich heraus, dass 
                         die Person "Tocotronic" schätzt. Ja, sehr gut, hab ich mir gedacht. Da hab ich auch schon davon gehört. Da "relaten" wir jetzt mal.
                         "Ja," hab ich gesagt, "die find ich auch total super! Absolute Lieblingsband!"
                         Leider hat sich mein angelesenes, halbes Dreiviertel-Wissen nicht ansatzweise als tragfähig für die sich einseitig erhoffte 
@@ -217,6 +221,8 @@ def main():
                         Zwei wichtige Erkenntnisse: 
                         * Die Häppchen im Soho House ersetzen kein Abendessen. 
                         * Und die Butterbrezeln (!) im CATI-Studio bekamen die Butter injiziert: Die Brezn vom Bahnhof Zoo?
+                        
+                        Viel, viel schöner war es, im Team herumzureisen. Ich funktioniere wohl am besten, wenn ich starke Kolleginnen an meiner Seite habe.
                         """)
 
 ## Track 10
@@ -227,13 +233,14 @@ def main():
                     st.image(track10, width=200)
                 with xcol2:
                     st.markdown("""
-                        Lustig war's oft, als die Truppe noch beisammen saß. Wir durften über minuten hinweg lernen, 
+                        Lustig war's oft, als die KoFo-Truppe noch beisammen war. Wir durften über Minuten hinweg lernen, 
                         dass wohl besonders kurze Namen am Telefon nicht verstanden werden.
                         So mancher Spruch hat es zum Klassiker gebracht, immer einen Schritt vor den anderen...
                         Das Soziale, der Zusammenhalt ist so wichtig: Mal Ratschen, mal Dampf ablassen, selbst sich übereinander ärgern.
                         Geteiltes Leid ist halbes Leid. Geteilte Freude ist doppelt so viel wert.
-                        Wichtig für mich und eindrucksvoll in diesem Lied demonstriert: Da waren dann auch schon oft recht blöde Sprüche dabei, 
-                        die einem im Rückblick das kalte Grausen über den Rücken jagen. Hoffentlich lern ich noch dazu.
+                        
+                        Wichtig für mich aber auch und eindrucksvoll in diesem Lied demonstriert: Da waren dann auch schon oft recht blöde Sprüche von mir dabei, 
+                        die mir im Rückblick das kalte Grausen über den Rücken jagen. Hoffentlich lern ich noch dazu.
                         """)
 
 #############################
@@ -249,10 +256,11 @@ def main():
                     st.image(track11, width=200)
                 with xcol2:
                     st.markdown("""
-                        Nach all dem Lachen etwas ernster: Es ist vorsichtig formuliert, interessant mitzubekommen, wie sich die Situation einer Firma in der 
+                        Nach all dem Lachen etwas ernster: Es ist frappierend, wie sich die Situation einer Firma in der 
                         stetigen Transition verändert und was das für Konsequenzen auf allen Ebenen hat. Wie so oft führen manche Entscheidungen (oder nicht getroffene)
                         kaskadenartig zu Zwangsläufigkeiten, die das Gesamtgemenge komplett auf den Kopf stellt. 
-                        Ich habe für mich gelernt, dass ich Klarheit, Authentisches Auftreten und Zugewandtheit grandios wichtig finde und zum Glück auch immer wieder erleben durfte.
+                        Ich habe für mich gelernt, dass ich Klarheit, authentisches Auftreten und Zugewandtheit grandios wichtig finde 
+                        und zum Glück im persönlichen Umgang auch immer wieder erleben durfte.
                         """)
 
 ## Track 12
@@ -263,7 +271,7 @@ def main():
                     st.image(track12, width=200)
                 with xcol2:
                     st.markdown("""
-                        Wichtiges Lied! Entscheidend sind hier die paar wenigen Takte in Minute 2:22:
+                        Wichtiges Lied! Entscheidend sind hier die paar wenigen Takte ab Minute 2:22:
                         ***"Excel, Excel! Yeah! Tabelle!"***
                     
                         Dazu nur kurz die wichtigsten Regeln, die auch noch lange nach meinem Abschied gelten:
@@ -288,7 +296,9 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Das Trostlied während Corona. Aber irgendwie immer noch hilfreich. Und passend für so viele aktuelle Gelegenheiten.
-                        Aber eigentlich stimmt's ja doch: Es wird schon, wenn wir und zusammenreißen und zusammenhalten.
+                        Aber eigentlich stimmt's doch auch: Es wird schon, wenn wir uns zusammenreißen und zusammenhalten. 
+                        Corona hat uns ziemlich zerstreut und vereinzelt und so ganz haben wir noch nicht wieder zusammengefunden. Ich wünsche mir für Euch,
+                        dass das bald wieder gelingt.                        
                         """)
 
 
@@ -300,8 +310,8 @@ def main():
                     st.image(track14, width=200)
                 with xcol2:
                     st.markdown("""
-                        Hoj? Wie kommt denn dieses Lied an dieser Stelle auf die Liste? Ich hab keine Ahnung...
-                        Aber manchmal muss man auch schimpfen - klar! :sunglasses:
+                        Hoj? Wie kommt denn dieses Lied an dieser Stelle auf die Liste? Ich hab keine Ahnung... :sunglasses:
+                        Aber manchmal muss man auch schimpfen und Dampf ablassen - klar! Und dann wird wieder weiterghackelt...
                         """)
 
 #############################
@@ -318,8 +328,9 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Dieses Lied hat natürlich auch wieder mehrere Ebenen...
-                        Zum Ende meiner Zeit durfte ich nochmal so richtig qualitativ denken. 
+                        Zum Ende meiner Zeit durfte ich bei Dx nochmal so richtig qualitativ denken. 
                         Erstes Thema: "Feierabend" für Menschen aus aller Welt erklären. 
+                        
                         Mindestens zwei Erkenntnisse bleiben:
                         * vielleicht sollte ich doch eher mit Zahlen arbeiten...
                         * der Wunsch "Schönen Feierabend" wird nie mehr die gleiche, unschuldige Bedeutung haben
@@ -336,9 +347,9 @@ def main():
                         Oje, jetzt wird es zum Schluss doch noch einmal sehr wehmütig.
                         Aber eigentlich geht es mir hier um meinen wichtigsten Vorsatz für die Zukunft:
                         Ich möchte dann doch lieber nicht die Person werden, die "vom Krieg erzählt", zu allem eine Anekdote aus besseren Tagen weiß und 
-                        im Zweifel "nix wird besser!" ruft.
+                        im Zweifel "nix wird besser!" ruft. Zumindest nicht zu oft.
                           
-                        Ui, ui, ui, das wird aber schwierig...
+                        Das wird mir, glaub ich, sehr schwer fallen...
                         """)
 
 #############################
@@ -373,6 +384,10 @@ def main():
                         gelaufen bin, nicht viel. Aber irgendwann das rote und das blaue Best-of der Beatles auf Kassette.
                         Wie das damals so war, habe ich das sehr, sehr, sehr oft gehört. Und immer von vorn bis hinten durch, weil das quasi ja nur so ging.
                         The Long and Winding Road war (bis vor kurzem) immer das letzte Stück und es gibt mir immer noch das Gefühl, dass sich ein Kreis schließt und dass es gut ist.
+                        
+                        Ob Stichproben ziehen, Stichproben gewichten, Projekte managen und Daten verwurschteln, Radiosender auswendig lernen, TV-Geräte an- und ausschalten 
+                        und schließlich Story-telling - mann-oh-mann, da hab ich viel gelernt und lernen müssen. Aber ich hatte zum Glück immer Euch Kolleg*innen,
+                        die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben: Ganz vielen Dank dafür.
                     """)
 
 #############################
@@ -389,7 +404,7 @@ def main():
                 Ja, ja, ja, ist ja gut... einen hab ich noch.
                 Ist ja wohl klar, dass man nun wirklich keine Beziehung ohne dieses Lied beenden darf. 
                             
-                Grundgesetz. Basta.
+                Grundgesetz. Basta. :laughing:
                 """)
 
 
@@ -403,6 +418,8 @@ def main():
                 ### Euer Markus
 
                 P.S.: Diese Seite wurde natürlich zu 100% mit Python erstellt :smile: :smile: :smile:
+                
+                Die Bilder sind bis auf die zwei Ausnahmen von einer KI generiert.
                 """)
 
 if __name__ == "__main__":
