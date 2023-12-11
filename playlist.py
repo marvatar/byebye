@@ -80,7 +80,7 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Ich hab länger ein Lied gesucht, dass ein wenig auf die Arbeit in der Statistik passt.
-                        Ich hab mich für dieses Lied entschieden, weil es einigermaßen nerdig im Titel auf unsere Stichprobenzieherei abzielt, 
+                        Ich hab mich für dieses Lied nicht nur entschieden, weil es einigermaßen nerdig im Titel auf unsere Stichprobenzieherei abzielt, 
                         sondern weil es mich auch an die Zeit damals erinnert, als ich kollegialen Hinweisen folgend relativ intensiv versucht habe, meinen musikalischen Horizont zu erweitern.
                             
                         Dass ich mal in einer Statistik-Abteilung lande, würde so manchen meiner Mathe-Lehrer*innen im Nachhinein wahrscheinlich noch in den Wahnsinn treiben.
