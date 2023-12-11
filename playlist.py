@@ -104,12 +104,12 @@ def main():
                     st.image(track03, width=200)
                 with xcol2:
                     st.markdown("""
-                        Wie schon erwähnt, beide meine Mädels sind während der Zeit mit Euch auf die Welt gekommen und inzwischen 
+                        Beide meine Mädels sind während der Zeit mit Euch auf die Welt gekommen und inzwischen 
                         ziemlich groß geworden. Deshalb habe ich dieses Lied auf die Liste gesetzt, weil es so schön beschreibt, was man
                         sich als Vater so für die Kinder wünscht.
                       
                         Dass ich so einfach und unproblematisch in Teilzeit arbeiten konnte und so viel Zeit
-                        mit den beiden verbringen konnte, dafür bin ich unendlich dankbar und gebe diesen Dank unmittelbar an die Entscheider, 
+                        mit den Kindern verbringen konnte, dafür bin ich unendlich dankbar und gebe diesen Dank unmittelbar an die Entscheider, 
                         Beteiligten und Betroffenen weiter.    
                         """)
 
@@ -122,9 +122,9 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Ein krasser Vorteil war immer auch der extrem kurze Arbeitsweg, den ich sehr gerne mit dem Fahrrad am Schlosspark entlang zurückgelegt habe.
-                        Im Sommer wie im Urlaub, im Herbst durch den Morgennebel durch ein verwunschenes Paradies, im Winter oft steifgefroren, 
+                        Im Sommer war es wie ein Mini-Urlaub, im Herbst durch den Morgennebel wie in einem verwunschenen Paradies, im Winter war ich oft steifgefroren, 
                         im Regen bis auf die Haut nass und dann strumpfsockend im Büro. Wir Radler sind schon verwegene Typen...
-                        Auf jeden Fall immer eine gute Gelegenheit noch einmal durchzuschnaufen, bevor es tagsüber rundgeht. Und sich "freizustrampeln", 
+                        Auf jeden Fall immer eine gute Gelegenheit noch einmal durchzuschnaufen, bevor es tagsüber rundgeht. Und um sich "freizustrampeln", 
                         nach einem stressigen Tag... Absolute Empfehlung.
                         """)
 
@@ -144,9 +144,9 @@ def main():
                         Ach ja, mit dem Lied verbindet sich auch so viel: Wes Anderson-Filme, Weltraum-Themen...
                         Da kann ich mich ja stundenlang verlieren - natürlich nur außerhalb der Arbeitszeit.
                         
-                        Aber auch während der Arbeitszeit gab es immer was zu Entdecken und das ist auch im Rückblick grandios: 
+                        Aber auch während der Arbeitszeit gab es immer was zu entdecken und das ist auch im Rückblick grandios: 
                         Ich hatte immer, wirklich immer, die Freiheit rechts und links zu blicken und Dinge auszuprobieren.
-                        Und manchmal ist sogar was dabei rausgekommen. Manchmal auch nur, von den Neu-Entdeckungen mit Begeisterung in aller Ausführlichkeit zu erzählen.
+                        Und manchmal ist sogar was dabei rausgekommen. Manchmal aber auch nur, von den Neu-Entdeckungen mit Begeisterung in aller Ausführlichkeit zu erzählen.
                         Keine Ahnung, ob ich es irgendwann nochmal schaffe, schneller auf den Punkt zu kommen. 
                         
                         Diese Seite hier ist nicht gerade ein gutes Omen dafür...
@@ -160,14 +160,14 @@ def main():
                     st.image(track06, width=200)
                 with xcol2:
                     st.markdown("""
-                        Auf so einer Liste darf natürlich ein Lied von meiner meistgehörten Platte nicht fehlen.
+                        Auf so einer Liste darf natürlich ein Lied von meiner meistgehörten Platte in den letzten 19 Jahren nicht fehlen.
                         Überraschend unerreicht in meiner Playlist: Mando Diao "Infruset".
                         Während der Arbeit Musik zu finden, die man gut anhören kann, ohne immer laut mitsingen zu müssen und deswegen aus dem Arbeitstrott zu geraten, ist für mich sehr schwierig.
                         Noch sehr viel schwieriger ist es allerdings alt-schwedische Lyrik mitzusingen. 
                         Passt also perfekt als Begleitmusik und war und ist es immer wieder, immer wieder.
                         (Dummerweise hab ich es jetzt so oft gehört, dass ich mittlerweile doch mitsinge...)
 
-                        Mindestens genauso schön: Dringend auch alle Dota-Vertonungen von Mascha Kaléko anhören. Wunderbar!
+                        Mindestens genauso schön: Alle Dota-Lieder mit den Texten von Mascha Kaléko. Wunderbar! Ausprobieren!
                         """)
 
 #############################
@@ -185,7 +185,7 @@ def main():
                     st.markdown("""
                         Optimierung und Automatisierung sind natürlich die Super-Schlagworte der modernen Arbeitswelt.
                         
-                        Was ich lernen durfte, ist, dass man immer "ganzheitlich" an die Sache rangehen sollte. Es geht darum, den wirklichen, realen Bedarf
+                        Was ich lernen durfte, ist, dass man immer "ganzheitlich" an die Sache rangehen sollte. Es geht darum, den wirklichen, den realen Bedarf
                         zu entdecken. Ein super optimierter Prozess, den keiner anwendet bringt nichts. Eine minimale Veränderung, die einem im Alltag
                         ein paar Sekunden nervige Klickerei spart, ist Gold wert.
                         
@@ -225,7 +225,7 @@ def main():
                     st.image(track09, width=200)
                 with xcol2:
                     st.markdown("""
-                        Berlin im Dezember und Januar war das wichtigste Reiseziel: Zur Kundenveranstaltung oder zur Schulung ins Telefonstudio.
+                        Berlin im Dezember und Januar war das wichtigste und häufigste Reiseziel: Zur Kundenveranstaltung oder zur Schulung ins Telefonstudio.
                         Aber eigentlich immer im Dunkeln und oft ziemlich allein - und zum Teil sehr hungrig.
                     
                         Zwei wichtige Erkenntnisse: 
@@ -233,7 +233,7 @@ def main():
                         * Und die Butterbrezeln (!) im CATI-Studio bekommen die Butter injiziert: Die Brezn vom Bahnhof Zoo?
                         
                         Viel, viel schöner war es, im Team herumzureisen. Ich funktioniere wohl am besten, wenn ich starke Kolleginnen an meiner Seite habe.
-                        Da war dann ich auf der Heimfahrt heiser vom Ratschen und nicht vom Einweisen... 
+                        Da war ich dann auf der Heimfahrt heiser vom Ratschen und nicht vom Einweisen... 
                         """)
 
 ## Track 10
@@ -246,7 +246,7 @@ def main():
                     st.markdown("""
                         Lustig war's oft, als die KoFo-Truppe noch beisammen war. Wir durften über Minuten hinweg lernen, 
                         dass wohl besonders kurze Namen am Telefon nicht verstanden werden.
-                        So mancher Spruch hat es zum Klassiker gebracht, aber immer einen Schritt vor den anderen...
+                        So mancher Spruch hat es zum Klassiker gebracht: immer einen Schritt vor den anderen...
                         Das Soziale, der Zusammenhalt ist so wichtig: Mal Ratschen, mal Dampf ablassen, selbst sich übereinander ärgern.
                         Geteiltes Leid ist halbes Leid. Geteilte Freude ist doppelt so viel wert. Ohne Team ist alles nichts.
                         
@@ -286,7 +286,7 @@ def main():
                         ***"Excel, Excel! Yeah! Tabelle!"***
                     
                         Dazu nur kurz die wichtigsten Regeln, die auch noch lange nach meinem Abschied gelten:
-                        * Excel ist ein Arschloch! (manchmal)
+                        * Excel ist ein Ar***loch! (manchmal)
                         * Excel ist keine Datenbank! (niemals)
                         * Ein Excel-Sheet für dutzende oder gar hunderte Mitarbeiterinnen zur Bearbeitung freizugeben ist eine fragwürdige Entscheidung! (immer)
 
@@ -306,7 +306,7 @@ def main():
                     st.image(track13, width=200)
                 with xcol2:
                     st.markdown("""
-                        Das Trostlied während Corona. Aber irgendwie immer noch schön und tröstend. Und leider passend für so viele aktuelle Gelegenheiten.
+                        Das Trostlied während Corona. Aber irgendwie immer noch schön und immer noch tröstend. Und leider passend für so viele aktuelle Gelegenheiten.
                         Aber eigentlich stimmt's doch auch: Es wird schon, wenn wir uns zusammenreißen und zusammenhalten. Das hat das Arbeiten hier immer wieder ausgemacht. 
                         Corona hat uns ziemlich zerstreut und vereinzelt und so ganz haben wir noch nicht wieder zusammengefunden. Ich wünsche mir für Euch,
                         dass das bald wieder gelingt.                        
@@ -416,7 +416,7 @@ def main():
             with xcol2:
                 st.markdown("""
                 Ja, ja, ja, ist ja gut... einen hab ich noch.
-                Ist ja wohl klar, dass man nun wirklich keine Beziehung ohne dieses Lied beenden darf. 
+                Ist ja wohl klar, dass man nun wirklich keine Beziehung ohne dieses Lied beenden darf - auch keine Arbeitsbeziehung. 
                             
                 Grundgesetz. Basta! :laughing:
                 """)
