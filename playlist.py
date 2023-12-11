@@ -14,7 +14,7 @@ def main():
                 
                 Zum kleinen Abschied möchte ich noch einmal ein paar Gedanken mit Euch teilen, wie ich ja immer gern erzählt habe.
                 Ich fand die Idee, dies anhand einer kleinen Playlist zu organisieren, ganz nett.
-                Wer also Lust hat, klicke den Link an, starte die Playlist und liest sich die Texte hier unten durch.
+                Wer also Lust hat, startet die Playlist über den Link, klickt dann die passenden Felder unten an und liest sich die Texte durch.
                 Vielleicht entlockt es noch einmal einen Schmunzler oder triggert eine schöne Erinnerung... Das wäre doch was!
                 """)
 
