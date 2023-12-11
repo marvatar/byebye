@@ -85,6 +85,7 @@ def main():
                         Dass ich mal in einer Statistik-Abteilung lande, würde so manchen meiner Mathe-Lehrer*innen im Nachhinein wahrscheinlich noch in den Wahnsinn treiben.
                         Mehr sag ich vielleicht dazu nicht... Vielleicht doch kein Zufall, dass ich relativ schnell programmiertechnisch aufgerüstet habe,
                         um den Rechner das machen zu lassen, was ich selbst nicht konnte...
+                        Ich rufe noch im Schlaf manchmal laut: "ZUF!", "CID!", "CATICHECK!!!"
                         """)
 
 #############################
