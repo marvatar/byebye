@@ -143,10 +143,12 @@ def main():
                     st.markdown("""
                         Ach ja, mit dem Lied verbindet sich auch so viel: Wes Anderson-Filme, Weltraum-Themen...
                         Da kann ich mich ja stundenlang verlieren - natürlich nur außerhalb der Arbeitszeit.
+                        
                         Aber auch während der Arbeitszeit gab es immer was zu Entdecken und das ist auch im Rückblick grandios: 
                         Ich hatte immer, wirklich immer, die Freiheit rechts und links zu blicken und Dinge auszuprobieren.
                         Und manchmal ist sogar was dabei rausgekommen. Manchmal auch nur, von den Neu-Entdeckungen mit Begeisterung in aller Ausführlichkeit zu erzählen.
                         Keine Ahnung, ob ich es irgendwann nochmal schaffe, schneller auf den Punkt zu kommen. 
+                        
                         Diese Seite hier ist nicht gerade ein gutes Omen dafür...
                         """)
 
@@ -158,8 +160,8 @@ def main():
                     st.image(track06, width=200)
                 with xcol2:
                     st.markdown("""
-                        Auf so einer Liste darf natürlich ein Lied von der meistgehörten Platte nicht fehlen.
-                        Unerreicht in meiner Playlist: Mando Diao "Infruset".
+                        Auf so einer Liste darf natürlich ein Lied von meiner meistgehörten Platte nicht fehlen.
+                        Überraschend unerreicht in meiner Playlist: Mando Diao "Infruset".
                         Während der Arbeit Musik zu finden, die man gut anhören kann, ohne immer laut mitsingen zu müssen und deswegen aus dem Arbeitstrott zu geraten, ist für mich sehr schwierig.
                         Noch sehr viel schwieriger ist es allerdings alt-schwedische Lyrik mitzusingen. 
                         Passt also perfekt als Begleitmusik und war und ist es immer wieder, immer wieder.
@@ -182,10 +184,12 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Optimierung und Automatisierung sind natürlich die Super-Schlagworte der modernen Arbeitswelt.
+                        
                         Was ich lernen durfte, ist, dass man immer "ganzheitlich" an die Sache rangehen sollte. Es geht darum, den wirklichen, realen Bedarf
                         zu entdecken. Ein super optimierter Prozess, den keiner anwendet bringt nichts. Eine minimale Veränderung, die einem im Alltag
                         ein paar Sekunden nervige Klickerei spart, ist Gold wert.
-                        Und was jetzt langsam bewiesen ist, die ständige Einführung neuer, noch besserer Tools mit steilen Lernkurven bringt nicht immer den gewünschten 
+                        
+                        Und was jetzt langsam bewiesen ist - die ständige Einführung neuer, noch besserer Tools mit steilen Lernkurven bringt nicht immer den gewünschten 
                         Produktivitätsschub. Da gibt es leider keine Automatismen...
                         
                         **Wichtig**: Macht es mit Python! :smile:
@@ -200,7 +204,7 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Hier noch ein typisches Arbeitsproblem aus meiner Zeit in der Medienforschung. Nicht, was man denken könnte bei dem Titel...
-                        Netzwerken ist nicht so meine Stärke, war aber doch immer wieder "am Kunden". Im Smalltalk stellte sich heraus, dass 
+                        Netzwerken ist nicht so meine Stärke, ich war aber doch immer wieder mal "am Kunden". Im Smalltalk stellte sich heraus, dass 
                         die Person "Tocotronic" schätzt. Ja, sehr gut, hab ich mir gedacht. Da hab ich auch schon davon gehört. Da "relaten" wir jetzt mal.
                         "Ja," hab ich gesagt, "die find ich auch total super! Absolute Lieblingsband!"
                         Leider hat sich mein angelesenes, halbes Dreiviertel-Wissen nicht ansatzweise als tragfähig für die sich einseitig erhoffte 
@@ -221,14 +225,15 @@ def main():
                     st.image(track09, width=200)
                 with xcol2:
                     st.markdown("""
-                        Berlin im Dezember und Januar war das wichtigste Reiseziel: Zur Kundenveranstaltung oder ins Telefonstudio.
+                        Berlin im Dezember und Januar war das wichtigste Reiseziel: Zur Kundenveranstaltung oder zur Schulung ins Telefonstudio.
                         Aber eigentlich immer im Dunkeln und oft ziemlich allein - und zum Teil sehr hungrig.
                     
                         Zwei wichtige Erkenntnisse: 
                         * Die Häppchen im Soho House ersetzen kein Abendessen. 
-                        * Und die Butterbrezeln (!) im CATI-Studio bekamen die Butter injiziert: Die Brezn vom Bahnhof Zoo?
+                        * Und die Butterbrezeln (!) im CATI-Studio bekommen die Butter injiziert: Die Brezn vom Bahnhof Zoo?
                         
                         Viel, viel schöner war es, im Team herumzureisen. Ich funktioniere wohl am besten, wenn ich starke Kolleginnen an meiner Seite habe.
+                        Da war dann ich auf der Heimfahrt heiser vom Ratschen und nicht vom Einweisen... 
                         """)
 
 ## Track 10
@@ -241,7 +246,7 @@ def main():
                     st.markdown("""
                         Lustig war's oft, als die KoFo-Truppe noch beisammen war. Wir durften über Minuten hinweg lernen, 
                         dass wohl besonders kurze Namen am Telefon nicht verstanden werden.
-                        So mancher Spruch hat es zum Klassiker gebracht, immer einen Schritt vor den anderen...
+                        So mancher Spruch hat es zum Klassiker gebracht, aber immer einen Schritt vor den anderen...
                         Das Soziale, der Zusammenhalt ist so wichtig: Mal Ratschen, mal Dampf ablassen, selbst sich übereinander ärgern.
                         Geteiltes Leid ist halbes Leid. Geteilte Freude ist doppelt so viel wert. Ohne Team ist alles nichts.
                         
@@ -334,6 +339,7 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Dieses Lied hat natürlich auch wieder mehrere Ebenen...
+                        
                         Zum Ende meiner Zeit durfte ich bei Dx nochmal so richtig qualitativ denken. 
                         Erstes Thema: "Feierabend" für Menschen aus aller Welt erklären. 
                         
@@ -373,8 +379,10 @@ def main():
                     st.markdown("""
                         Da muss man natürlich sofort gegensteuern. 
                         Hier mal kurz eine Kinderserie, die mich weniger inhaltlich beeindruckt hat, aber ziemlich verwirrt,
-                        weil der kleine Marco nicht nur sesehr ähnlich heißt, sondern quasi eine Manga-Version von mir im Fernsehen war.
-                        WTF??? würden wir heute sagen... Und natürlich passt es inhaltlich super gut hier ans Ende der Liste.
+                        weil der kleine Marco nicht nur seeehr ähnlich heißt, sondern quasi eine Manga-Version von mir im Fernsehen war.
+                        WTF??? würden wir heute sagen... 
+                        
+                        Und natürlich passt es inhaltlich super gut hier ans Ende der Liste.
                         (... äh, und, nein, ich hatte leider keinen Affen... das war dann wohl künstlerische Freiheit der Japaner)                                
                         """)
 
@@ -393,7 +401,7 @@ def main():
                         
                         Ob Stichproben ziehen, Stichproben gewichten, Projekte managen und Daten verwurschteln, Radiosender auswendig lernen, TV-Geräte an- und ausschalten 
                         und schließlich Story-telling - mann-oh-mann, da hab ich viel gelernt und lernen müssen. Aber ich hatte zum Glück immer Euch Kolleg*innen,
-                        die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben: Ganz vielen Dank dafür.
+                        die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben: Von ganzem Herzeb vielen Dank dafür.
                     """)
 
 #############################
