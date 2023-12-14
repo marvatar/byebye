@@ -426,6 +426,7 @@ def main():
 
     st.markdown("""
                 *Jetzt reicht's aber wirklich...*
+                Ist aber ja auch eine krude Mischung geworden. :smile:
 
 
                 ### Macht's gut, passt auf Euch auf und bleibt gesund! 
