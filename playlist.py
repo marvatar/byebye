@@ -400,7 +400,7 @@ def main():
                         Wie das damals so war, habe ich das sehr, sehr, sehr oft gehört. Und immer von vorn bis hinten durch, weil das quasi ja nur so ging.
                         "The Long and Winding Road" war (bis vor kurzem) immer das letzte Stück und es gibt mir immer noch das Gefühl, dass sich ein Kreis schließt und dass es gut ist.
                         
-                        Ob Stichproben ziehen, Stichproben gewichten, Projekte managen und Daten verwurschteln, SINs der Radiosender auswendig lernen, TV-Geräte an- und ausschalten, Datenschutzfolgeabschätzungen entwerfen 
+                        Ob Stichproben ziehen, Stichproben gewichten, Projekte managen und Daten verwurschteln, SINs der Radiosender auswendig lernen, Fernseher suchen, Datenschutzfolgeabschätzungen entwerfen 
                         und schließlich Storytelling - mann-oh-mann, da hab ich viel gelernt und lernen müssen. Aber ich hatte zum Glück immer Euch Kolleg*innen,
                         die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben: Von ganzem Herzen vielen Dank dafür.
                     """)
