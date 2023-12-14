@@ -14,6 +14,7 @@ def main():
                 
                 Zum Abschied möchte ich noch einmal ein paar Gedanken mit Euch teilen, etwas wild und unkontrolliert, wie ich ja immer gern erzählt habe.
                 Ich fand die Idee, dies anhand einer kleinen Playlist zu organisieren, ganz nett.
+                
                 Wer also Lust hat, startet die Playlist über den Link, klickt dann die passenden Felder unten an und liest sich die Texte durch.
                 Vielleicht entlockt es noch einmal einen Schmunzler oder triggert eine schöne Erinnerung... Das wäre doch was!
                 """)
@@ -426,7 +427,7 @@ def main():
 
     st.markdown("""
                 *Jetzt reicht's aber wirklich...*
-                Ist aber ja auch eine krude Mischung geworden. :smile:
+                Ist aber ja mal wieder eine krude Mischung geworden. :smile:
 
 
                 ### Macht's gut, passt auf Euch auf und bleibt gesund! 
