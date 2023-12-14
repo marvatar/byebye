@@ -12,7 +12,7 @@ def main():
                 Große und wichtige Ereignisse sind irgendwann in dieser Zeit passiert, sowohl privat als auch beruflich.
                 Die Welt hat sich ganz schön geändert, technologisch und auch sonst...
                 
-                Zum kleinen Abschied möchte ich noch einmal ein paar Gedanken mit Euch teilen, wie ich ja immer gern erzählt habe.
+                Zum Abschied möchte ich noch einmal ein paar Gedanken mit Euch teilen, wie ich ja immer gern erzählt habe.
                 Ich fand die Idee, dies anhand einer kleinen Playlist zu organisieren, ganz nett.
                 Wer also Lust hat, startet die Playlist über den Link, klickt dann die passenden Felder unten an und liest sich die Texte durch.
                 Vielleicht entlockt es noch einmal einen Schmunzler oder triggert eine schöne Erinnerung... Das wäre doch was!
