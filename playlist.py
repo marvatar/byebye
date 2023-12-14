@@ -401,7 +401,7 @@ def main():
                         
                         Ob Stichproben ziehen, Stichproben gewichten, Projekte managen und Daten verwurschteln, SINs der Radiosender auswendig lernen, TV-Geräte an- und ausschalten, Datenschutzfolgeabschätzungen entwerfen 
                         und schließlich Storytelling - mann-oh-mann, da hab ich viel gelernt und lernen müssen. Aber ich hatte zum Glück immer Euch Kolleg*innen,
-                        die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben: Von ganzem Herzeb vielen Dank dafür.
+                        die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben: Von ganzem Herzen vielen Dank dafür.
                     """)
 
 #############################
