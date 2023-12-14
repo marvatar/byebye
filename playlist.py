@@ -346,7 +346,7 @@ def main():
                         
                         Mindestens zwei Erkenntnisse bleiben:
                         * vielleicht sollte ich doch eher mit Zahlen arbeiten...
-                        * der Wunsch "Schönen Feierabend" wird nie mehr die gleiche, unschuldige Bedeutung haben
+                        * der Wunsch "Schönen Feierabend" wird nie mehr die gleiche, unschuldige Bedeutung haben :laughing:
                         """)
 
 ## Track 16
