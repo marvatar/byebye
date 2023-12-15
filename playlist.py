@@ -13,7 +13,7 @@ def main():
                 Die Welt hat sich ganz schön geändert, technologisch und auch sonst...
                 
                 Zum Abschied möchte ich noch einmal ein paar Gedanken mit Euch teilen, etwas wild und unkontrolliert vielleicht - aber das seid Ihr von mir so gewohnt.
-                Damit es einigermaßen organisiert bleibt, hatte ich die Idee, eine kleine Playlist zusammenzustellen, und dazu ein wenig zu sinnieren.
+                Damit es einigermaßen organisiert bleibt, hatte ich die Idee, eine kleine Playlist zusammenzustellen und dazu ein wenig zu sinnieren.
                 Wer also Lust hat, startet die Playlist über den Link, klickt dann die passenden Felder unten an und liest sich die Texte durch.
                 Vielleicht entlockt es noch einmal einen Schmunzler oder triggert eine schöne Erinnerung... würde mich freuen.
                 """)
@@ -233,7 +233,7 @@ def main():
                     
                         Zwei wichtige Erkenntnisse: 
                         * Die Häppchen im Soho House ersetzen kein Abendessen. 
-                        * Und die Butterbrezeln (!) im CATI-Studio bekommen die Butter injiziert: Die Brezn vom Bahnhof Zoo?
+                        * Und die Butterbrezeln (!) im Berliner CATI-Studio bekamen die Butter injiziert: Die Brezn vom Bahnhof Zoo?
                         
                         Viel, viel schöner war es, im Team herumzureisen. Ich funktioniere wohl am besten, wenn ich starke Kolleginnen an meiner Seite habe.
                         Da war ich dann auf der Heimfahrt heiser vom Ratschen und nicht vom Einweisen... 
@@ -247,9 +247,12 @@ def main():
                     st.image(track10, width=200)
                 with xcol2:
                     st.markdown("""
-                        Lustig war's oft, als die KoFo-Truppe noch beisammen war. Wir durften über Minuten hinweg lernen, 
+                        Lustig war's oft, als die KoFo-Truppe noch beisammen war. 
+                        
+                        Wir durften über Minuten hinweg lernen, 
                         dass wohl gerade besonders kurze Namen am Telefon nicht verstanden werden.
                         So mancher Spruch hat es zum Klassiker gebracht, aber eines war klar: immer einen Schritt vor den anderen...
+                        
                         Das Soziale, der Zusammenhalt ist so wichtig: Mal Ratschen, mal Dampf ablassen, selbst sich übereinander lauthals ärgern, weil es so laut ist...
                         Geteiltes Leid ist halbes Leid. Geteilte Freude ist doppelt so viel wert. Ohne Team ist alles nichts.
                         
@@ -273,8 +276,11 @@ def main():
                         Nach all dem Lachen etwas ernster: Es ist frappierend, wie sich die Situation einer Firma in der 
                         stetigen Transition verändert und was das für Konsequenzen auf allen Ebenen hat. Wie so oft führen manche Entscheidungen (oder nicht getroffene)
                         kaskadenartig zu Zwangsläufigkeiten, die über kurz oder lang das Gesamtgemenge komplett auf den Kopf stellen. 
-                        Ich habe für mich gelernt, dass ich Klarheit, authentisches Auftreten und Zugewandtheit grandios wichtig finde 
-                        und zum Glück im persönlichen Umgang auch immer wieder erleben durfte. Die Resilienz bei Kantar ist, glaub ich, unerreicht. Da wird mir auch für die Zukunft nicht allzu bang.
+                        
+                        Ich habe für mich gelernt, wie wichtig für mich Klarheit, authentisches Auftreten und Zugewandtheit sind -  
+                        und zum Glück im persönlichen Umgang auch immer wieder erleben durfte. 
+                        
+                        Die Resilienz bei Kantar ist, glaub ich, unerreicht. Da wird mir auch für die Zukunft nicht allzu bang.
                         """)
 
 ## Track 12
@@ -313,7 +319,7 @@ def main():
                         Aber eigentlich stimmt's doch auch: Es wird schon, wenn wir uns zusammenreißen und zusammenhalten. Das hat das Arbeiten hier immer wieder ausgemacht. 
                         
                         Corona hat uns ziemlich zerstreut und vereinzelt und so ganz haben wir noch nicht wieder zusammengefunden. Ich wünsche mir für Euch,
-                        dass das bald wieder besser gelingt und Ihr weiter so zusammenhaltet.                        
+                        dass das bald wieder besser gelingt und Ihr, egal was noch so kommt, weiter so zusammenhaltet.                        
                         """)
 
 
@@ -382,7 +388,7 @@ def main():
                     st.markdown("""
                         Da muss man natürlich sofort gegensteuern. Hat eigentlich nix mit Kantar zu tun, aber naja... 
                         Hier mal kurz eine Kinderserie, die mich weniger inhaltlich beeindruckt hat, aber ziemlich verwirrt,
-                        weil der kleine Marco nicht nur seeehr ähnlich heißt, sondern quasi eine Manga-Version von mir im Fernsehen war.
+                        weil der kleine Marco nicht nur seeehr ähnlich heißt, sondern quasi eine Manga-Version von mir als Kind im Fernsehen war.
                         WTF??? würden wir heute sagen... Frappierend!!! :laughing:
                         
                         Und natürlich passt es inhaltlich super gut hier ans Ende der Liste.
@@ -406,6 +412,7 @@ def main():
                         und schließlich Storytelling - mann-oh-mann, da hab ich viel gelernt und lernen müssen. 
                         
                         Aber ich hatte zum Glück immer Euch Kolleg*innen, die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben, wenns bei mir nicht mehr weiterging: 
+                        
                         **Von ganzem Herzen vielen Dank dafür!**
                     """)
 
@@ -420,7 +427,8 @@ def main():
                 st.image(track19, width=200)
             with xcol2:
                 st.markdown("""
-                Ja, ja, ja, ist ja gut... einen hab ich noch.
+                Ja, ja, ja, ist ja gut... einen hab ich noch. Muss ja auch die 19 voll machen...
+                
                 Ist ja wohl klar, dass man nun wirklich keine Beziehung ohne dieses Lied beenden darf - auch keine Arbeitsbeziehung. 
                             
                 Grundgesetz. Basta! :laughing:
@@ -432,7 +440,6 @@ def main():
     st.markdown("""
                 *Jetzt reicht's aber wirklich...*
                 Ist aber ja mal wieder eine krude Mischung geworden. :smile:
-
 
                 ### Macht's gut, passt auf Euch auf und bleibt gesund! 
                 ### Euer Markus
