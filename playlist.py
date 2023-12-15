@@ -438,8 +438,7 @@ def main():
     st.divider()
 
     st.markdown("""
-                *Jetzt reicht's aber wirklich...*
-                Ist aber ja mal wieder eine krude Mischung geworden. :smile:
+                *Jetzt reicht's aber wirklich.. Ist aber ja mal wieder eine krude Mischung geworden.* :smile:
 
                 ### Macht's gut, passt auf Euch auf und bleibt gesund! 
                 ### Euer Markus
