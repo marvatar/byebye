@@ -12,11 +12,10 @@ def main():
                 Große und wichtige Ereignisse sind irgendwann in dieser Zeit passiert, sowohl privat als auch beruflich.
                 Die Welt hat sich ganz schön geändert, technologisch und auch sonst...
                 
-                Zum Abschied möchte ich noch einmal ein paar Gedanken mit Euch teilen, etwas wild und unkontrolliert, wie ich ja immer gern erzählt habe.
-                Ich fand die Idee, dies anhand einer kleinen Playlist zu organisieren, ganz nett.
-                
+                Zum Abschied möchte ich noch einmal ein paar Gedanken mit Euch teilen, etwas wild und unkontrolliert vielleicht - aber das seid Ihr von mir so gewohnt.
+                Damit es einigermaßen organisiert bleibt, hatte ich die Idee, eine kleine Playlist zusammenzustellen, und dazu ein wenig zu sinnieren.
                 Wer also Lust hat, startet die Playlist über den Link, klickt dann die passenden Felder unten an und liest sich die Texte durch.
-                Vielleicht entlockt es noch einmal einen Schmunzler oder triggert eine schöne Erinnerung... Das wäre doch was!
+                Vielleicht entlockt es noch einmal einen Schmunzler oder triggert eine schöne Erinnerung... würde mich freuen.
                 """)
 
     st.markdown("https://open.spotify.com/playlist/5THCLsUU3qjKFxrLDF0mNe?si=443650e5306f446a")
@@ -110,7 +109,7 @@ def main():
                         sich als Vater so für die Kinder wünscht.
                       
                         Dass ich so einfach und unproblematisch in Teilzeit arbeiten konnte und so viel Zeit
-                        mit den Kindern verbringen konnte, dafür bin ich unendlich dankbar und gebe diesen Dank unmittelbar an die Entscheider, 
+                        mit meinen Kindern verbringen durfte, dafür bin ich unendlich dankbar und gebe diesen Dank unmittelbar an die Entscheider, 
                         Beteiligten und Betroffenen weiter.    
                         """)
 
@@ -125,8 +124,9 @@ def main():
                         Ein krasser Vorteil war immer auch der extrem kurze Arbeitsweg, den ich sehr gerne mit dem Fahrrad am Schlosspark entlang zurückgelegt habe.
                         Im Sommer war es wie ein Mini-Urlaub, im Herbst durch den Morgennebel wie in einem verwunschenen Paradies, im Winter war ich oft steifgefroren, 
                         im Regen bis auf die Haut nass und dann strumpfsockend im Büro. Wir Radler sind schon verwegene Typen...
+                        
                         Auf jeden Fall immer eine gute Gelegenheit noch einmal durchzuschnaufen, bevor es tagsüber rundgeht. Und um sich "freizustrampeln", 
-                        nach einem stressigen Tag... Absolute Empfehlung.
+                        nach einem stressigen Tag... 
                         """)
 
 #############################
@@ -147,7 +147,7 @@ def main():
                         
                         Aber auch während der Arbeitszeit gab es immer was zu entdecken und das ist auch im Rückblick grandios: 
                         Ich hatte immer, wirklich immer, die Freiheit rechts und links zu blicken und Dinge auszuprobieren.
-                        Und manchmal ist sogar was dabei rausgekommen. Manchmal aber auch nur, von den Neu-Entdeckungen mit Begeisterung in aller Ausführlichkeit zu erzählen.
+                        Und manchmal ist sogar was dabei rausgekommen. Manchmal aber auch nur, von den abstrusen Neu-Entdeckungen mit Begeisterung in aller Ausführlichkeit zu erzählen.
                         Keine Ahnung, ob ich es irgendwann nochmal schaffe, schneller auf den Punkt zu kommen. 
                         
                         Diese Seite hier ist nicht gerade ein gutes Omen dafür...
@@ -184,7 +184,7 @@ def main():
                     st.image(track07, width=200)
                 with xcol2:
                     st.markdown("""
-                        Optimierung und Automatisierung sind natürlich die Super-Schlagworte der modernen Arbeitswelt.
+                        Optimierung und Automatisierung sind natürlich die Super-Schlagworte der modernen Arbeitswelt und treiben mich ja auch immer um.
                         
                         Was ich lernen durfte, ist, dass man immer "ganzheitlich" an die Sache rangehen sollte. Es geht darum, den wirklichen, den realen Bedarf
                         zu entdecken. Ein super optimierter Prozess, den keiner anwendet bringt nichts. Eine minimale Veränderung, die einem im Alltag
@@ -207,10 +207,12 @@ def main():
                         Hier noch ein typisches Arbeitsproblem aus meiner Zeit in der Medienforschung. Nicht, was man denken könnte bei dem Titel...
                         Netzwerken ist nicht so meine Stärke, ich war aber doch immer wieder mal "am Kunden". Im Smalltalk stellte sich heraus, dass 
                         die Person "Tocotronic" schätzt. Ja, sehr gut, hab ich mir gedacht. Da hab ich auch schon davon gehört. Da "relaten" wir jetzt mal.
-                        "Ja," hab ich gesagt, "die find ich auch total super! Absolute Lieblingsband!"
+                        "Ja," hab ich gesagt, "die find ich auch total super! Absolute Lieblingsband!" Tja...
+                        
                         Leider hat sich mein angelesenes, halbes Dreiviertel-Wissen nicht ansatzweise als tragfähig für die sich einseitig erhoffte 
                         Buddy-Konversation erwiesen und ich stand innerhalb von Sekunden als anbiedernder Schleimer da, der nicht einmal ein Lied oder eine Platte der Band
-                        benennen konnte. Tja, again what learned - hab das mit Tocotronic natürlich nachbereitet.                      
+                        benennen konnte. Tja, again what learned - authentisch bleiben... 
+                        (Hab das mit Tocotronic natürlich nachbereitet.)
                         """)
 
 #############################
@@ -226,8 +228,8 @@ def main():
                     st.image(track09, width=200)
                 with xcol2:
                     st.markdown("""
-                        Berlin im Dezember und Januar war das wichtigste und häufigste Reiseziel: Zur Kundenveranstaltung oder zur Schulung ins Telefonstudio.
-                        Aber eigentlich immer im Dunkeln und oft ziemlich allein - und zum Teil sehr hungrig.
+                        Berlin im Dezember und Januar war zusammen mit Parchim und Güstrow das wichtigste und häufigste Reiseziel: Zur Kundenveranstaltung oder zur Schulung ins Telefonstudio.
+                        Aber eigentlich immer im Winter, im Dunkeln und oft ziemlich allein - und zum Teil sehr hungrig (<- niemals in Güstrow!!!!).
                     
                         Zwei wichtige Erkenntnisse: 
                         * Die Häppchen im Soho House ersetzen kein Abendessen. 
@@ -246,13 +248,13 @@ def main():
                 with xcol2:
                     st.markdown("""
                         Lustig war's oft, als die KoFo-Truppe noch beisammen war. Wir durften über Minuten hinweg lernen, 
-                        dass wohl besonders kurze Namen am Telefon nicht verstanden werden.
-                        So mancher Spruch hat es zum Klassiker gebracht: immer einen Schritt vor den anderen...
-                        Das Soziale, der Zusammenhalt ist so wichtig: Mal Ratschen, mal Dampf ablassen, selbst sich übereinander ärgern.
+                        dass wohl gerade besonders kurze Namen am Telefon nicht verstanden werden.
+                        So mancher Spruch hat es zum Klassiker gebracht, aber eines war klar: immer einen Schritt vor den anderen...
+                        Das Soziale, der Zusammenhalt ist so wichtig: Mal Ratschen, mal Dampf ablassen, selbst sich übereinander lauthals ärgern, weil es so laut ist...
                         Geteiltes Leid ist halbes Leid. Geteilte Freude ist doppelt so viel wert. Ohne Team ist alles nichts.
                         
                         Wichtig für mich aber auch und eindrucksvoll in diesem Lied demonstriert: Da waren dann auch schon oft recht blöde Sprüche von mir dabei, 
-                        die mir im Rückblick das kalte Grausen über den Rücken jagen. Hoffentlich lern ich noch dazu.
+                        die mir im Rückblick das kalte Grausen über den Rücken jagen. Hoffentlich lern ich mindestens da noch dazu.
                         """)
 
 #############################
@@ -272,7 +274,7 @@ def main():
                         stetigen Transition verändert und was das für Konsequenzen auf allen Ebenen hat. Wie so oft führen manche Entscheidungen (oder nicht getroffene)
                         kaskadenartig zu Zwangsläufigkeiten, die über kurz oder lang das Gesamtgemenge komplett auf den Kopf stellen. 
                         Ich habe für mich gelernt, dass ich Klarheit, authentisches Auftreten und Zugewandtheit grandios wichtig finde 
-                        und zum Glück im persönlichen Umgang auch immer wieder erleben durfte.
+                        und zum Glück im persönlichen Umgang auch immer wieder erleben durfte. Die Resilienz bei Kantar ist, glaub ich, unerreicht. Da wird mir auch für die Zukunft nicht allzu bang.
                         """)
 
 ## Track 12
@@ -309,8 +311,9 @@ def main():
                     st.markdown("""
                         Das Trostlied während Corona. Aber irgendwie immer noch schön und immer noch tröstend. Und leider passend für so viele aktuelle Gelegenheiten.
                         Aber eigentlich stimmt's doch auch: Es wird schon, wenn wir uns zusammenreißen und zusammenhalten. Das hat das Arbeiten hier immer wieder ausgemacht. 
+                        
                         Corona hat uns ziemlich zerstreut und vereinzelt und so ganz haben wir noch nicht wieder zusammengefunden. Ich wünsche mir für Euch,
-                        dass das bald wieder gelingt.                        
+                        dass das bald wieder besser gelingt und Ihr weiter so zusammenhaltet.                        
                         """)
 
 
@@ -342,11 +345,10 @@ def main():
                         Dieses Lied hat natürlich auch wieder mehrere Ebenen...
                         
                         Zum Ende meiner Zeit durfte ich bei Dx nochmal so richtig qualitativ denken. 
-                        Erstes Thema: "Feierabend" für Menschen aus aller Welt erklären. 
+                        Erstes Thema: "Feierabend" für Menschen aus aller Welt erklären.
+                        Im Endeffekt hat das wohl ganz gut funktioniert und auch durch die anderen Analysen wurde ich vorbildlich durchgesteuert, aber eins bleibt:
                         
-                        Mindestens zwei Erkenntnisse bleiben:
-                        * vielleicht sollte ich doch eher mit Zahlen arbeiten...
-                        * der Wunsch "Schönen Feierabend" wird nie mehr die gleiche, unschuldige Bedeutung haben :laughing:
+                        der Wunsch "Schönen Feierabend" wird nie mehr die gleiche, unschuldige Bedeutung haben :laughing:
                         """)
 
 ## Track 16
@@ -378,10 +380,10 @@ def main():
                     st.image(track17, width=200)
                 with xcol2:
                     st.markdown("""
-                        Da muss man natürlich sofort gegensteuern. 
+                        Da muss man natürlich sofort gegensteuern. Hat eigentlich nix mit Kantar zu tun, aber naja... 
                         Hier mal kurz eine Kinderserie, die mich weniger inhaltlich beeindruckt hat, aber ziemlich verwirrt,
                         weil der kleine Marco nicht nur seeehr ähnlich heißt, sondern quasi eine Manga-Version von mir im Fernsehen war.
-                        WTF??? würden wir heute sagen... 
+                        WTF??? würden wir heute sagen... Frappierend!!! :laughing:
                         
                         Und natürlich passt es inhaltlich super gut hier ans Ende der Liste.
                         (... äh, und, nein, ich hatte leider keinen Affen... das war dann wohl künstlerische Freiheit der Japaner)                                
@@ -401,8 +403,10 @@ def main():
                         "The Long and Winding Road" war (bis vor kurzem) immer das letzte Stück und es gibt mir immer noch das Gefühl, dass sich ein Kreis schließt und dass es gut ist.
                         
                         Ob Stichproben ziehen, Stichproben gewichten, Projekte managen und Daten verwurschteln, SINs der Radiosender auswendig lernen, Fernseher suchen, Datenschutzfolgeabschätzungen entwerfen 
-                        und schließlich Storytelling - mann-oh-mann, da hab ich viel gelernt und lernen müssen. Aber ich hatte zum Glück immer Euch Kolleg*innen,
-                        die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben: Von ganzem Herzen vielen Dank dafür.
+                        und schließlich Storytelling - mann-oh-mann, da hab ich viel gelernt und lernen müssen. 
+                        
+                        Aber ich hatte zum Glück immer Euch Kolleg*innen, die mir das ganz geduldig erklärt haben und ohne zu Zögern geholfen haben, wenns bei mir nicht mehr weiterging: 
+                        **Von ganzem Herzen vielen Dank dafür!**
                     """)
 
 #############################
@@ -433,9 +437,8 @@ def main():
                 ### Macht's gut, passt auf Euch auf und bleibt gesund! 
                 ### Euer Markus
 
-                P.S.: Diese Seite wurde natürlich zu 100% mit Python erstellt :smile: :smile: :smile:
-                
-                Die Bilder sind bis auf die zwei Ausnahmen von einer KI generiert.
+                P.S.: Diese Seite wurde natürlich zu 100% mit Python erstellt :smile: :smile: :smile: 
+                Die Bilder sind bis auf die zwei Ausnahmen von einer KI generiert. Ich komme einfach nicht aus meiner Haut...
                 """)
 
 if __name__ == "__main__":
